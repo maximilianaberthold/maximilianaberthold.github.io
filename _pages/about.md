@@ -30,4 +30,6 @@ latest_posts:
 
 I am a researcher at Claudia Maienborn's department for Semantics, Pragmatics, Language and Cognition at the University of Tübingen, Germany. 
 
-My primary research focus is how temporal information is encoded in natural language not just in the verbal but also the nominal domains. In my dissertation project, I developed a formal logic that captures temporality across categories in a uniform fashion. You can find the link to my thesis on the [publications page](https://maximilianaberthold.github.io/publications/).
+My primary research focus is how temporal information is encoded in natural language not only in the verbal but also the nominal domain. In my dissertation, I developed a formal logic that models temporality across both categories in a unified way. You can find the link to my thesis on the [publications page](https://maximilianaberthold.github.io/publications/).
+
+More recently, I have been interested in [tbd].
