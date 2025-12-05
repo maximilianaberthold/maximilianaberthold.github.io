@@ -46,13 +46,13 @@
         - Student assistant in project B1 (Hohaus, Stolterfoht, Ulrich) in the CRC 833 "The Construction of Meaning"
 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: <span>Formal semantics and pragmatics</span>
-    - title: <span>Temporal interpretation of noun phrases</span>
-    - title: <span>Tense, aspect, mood</span>
-    - title: <span>Common ground</span>
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Formal semantics and pragmatics
+#    - title: Temporal interpretation of noun phrases
+#    - title: Tense, aspect, mood
+#   - title: Common ground
 
 - title: Academic Interests
   type: map
