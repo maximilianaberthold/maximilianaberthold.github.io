@@ -49,9 +49,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Formal semantics and pragmatics
-    - title: Temporal interpretation of noun phrases
-    - title: Tense, aspect, mood
+    - description: Formal semantics and pragmatics
+    - description: Temporal interpretation of noun phrases
+    - description: Tense, aspect, mood
+    - description: Common ground
 
 # - title: Other Interests
 #  type: list
