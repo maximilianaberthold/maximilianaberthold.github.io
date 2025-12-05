@@ -16,22 +16,22 @@
       year: expected 2026
 
     - title: Master of Arts in English Linguistics
-      institution: Eberhard Karls Universität Tübingen
+      institution: Eberhard Karls Universität Tübingen, Germany
       year: 2021
       
     - title: Bachelor of Education in English and German
-      institution: Eberhard Karls Universität Tübingen
+      institution: Eberhard Karls Universität Tübingen, Germany
       year: 2019
 
 - title: Experience
   type: time_table
   contents:
     - title: Research associate
-      institution: German Seminar, Universität Tübingen
+      institution: German Seminar, Universität Tübingen, Germany
       year: 2025
 
     - title: Research associate
-      institution: Linguistics Institute, Universität Frankfurt
+      institution: Linguistics Institute, Universität Frankfurt, Germany
       year: 2021 - 2025
       description:
         - Research Training Program (RTG) "Nominal Modification"
