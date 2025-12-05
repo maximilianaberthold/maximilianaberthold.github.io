@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 **Winter Semester 2025/26**
-- *Semantics 1*
+- *Semantics I*
 
 **Winter Semester 2024/25**
 - *Introduction to the Semantics of Tense* (Frankfurt)
