@@ -41,6 +41,7 @@
   type: nested_list
   contents:
     - title: Formal semantics and pragmatics
+    - title: Temporal interpretation of noun phrases
     - title: Tense, aspect, mood
 
 # - title: Other Interests
