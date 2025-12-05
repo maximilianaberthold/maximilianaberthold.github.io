@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "",
+          description: "Unless indicated otherwise, courses were taught in Tübingen and in German.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
