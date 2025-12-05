@@ -54,6 +54,18 @@
     - title: <span>Tense, aspect, mood</span>
     - title: <span>Common ground</span>
 
+- title: Academic Interests
+  type: map
+  contents:
+    - name: 
+      value: Formal semantics and pragmatics
+    - name: 
+      value: Temporal interpretation of noun phrases
+    - name: 
+      value: Tense, aspect, mood
+    - name: 
+      value: Common ground
+
 # - title: Other Interests
 #  type: list
 #  contents:
