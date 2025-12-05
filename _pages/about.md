@@ -30,6 +30,6 @@ latest_posts:
 
 I am a researcher in (formal) semantics and pragmatics in the [German Seminar](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/deutsches-seminar/abteilungen/linguistik/) at the University of Tübingen, Germany. 
 
-For most of my academic life, my research has focused on questions relating to how temporal information is encoded in natural language, especially in the nominal domain. In my dissertation, I developed a formal logic that models temporality across the verbal and nominal categories in a unified way. The thesis will be available on the [publications page](https://maximilianaberthold.github.io/publications/) once it has been published by the university library.
+For most of my academic life, my research has centered around how temporal information is encoded in natural language. In my dissertation, I investigate the nominal categories of tense and aspect and develop a formal logic that models temporality across domains in a unified way. The thesis will be available on the [publications page](https://maximilianaberthold.github.io/publications/) once it has been published by the university library.
 
 As an associate to Claudia Maienborn's project on [semantic vs. world knowledge](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/sonderforschungsbereiche/sfb-common-ground/projekte/a2-kaup-maienborn/) within the newly funded CRC 1718 "Common Ground", I have been interested in [tbd].
