@@ -11,19 +11,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in General Linguistics
       institution: Goethe University Frankfurt, Germany
-      year: 1905
+      year: expected 2026
       description:
         - title: Temporality in the Nominal Domain: Tense and Aspect.
           contents:
             - A formal semantic account on temporality in natural language.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Master of Arts in English Linguistics
+      institution: Eberhard Karls Universität Tübingen
+      year: 2021
+    - title: Bachelor of Education in English and German
+      institution: Eberhard Karls Universität Tübingen
+      year: 2019
 
 - title: Experience
   type: time_table
