@@ -7,7 +7,12 @@ nav: true
 nav_order: 3
 ---
 
-**The German temporal adjective *damalig*: A nominal tense?**
+<!-- _pages/presentations.md -->
 
-**Winter Semester 2024/25**
-- *Introduction to the Semantics of Tense* (Frankfurt)
+<!-- Bibsearch Feature -->
+
+<div class="presentations">
+
+{% bibliography %}
+
+</div>
