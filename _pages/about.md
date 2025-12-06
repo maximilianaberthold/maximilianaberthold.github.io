@@ -35,7 +35,7 @@ For most of my academic life, my research has centered around how temporal infor
 
 <br><br> <!-- Adds a larger space -->
 
-<p style="font-size: 20px;">
+<p style="font-size: 25px;">
   Contact 
 </p>
 
