@@ -33,9 +33,9 @@ I am a researcher in (formal) semantics and pragmatics in the [German Seminar](h
 For most of my academic life, my research has centered around how temporal information is encoded in natural language. In my dissertation, I investigate the nominal categories of tense and aspect and develop a formal logic that models temporality across domains in a unified way. The thesis will be available on the [publications page](https://maximilianaberthold.github.io/publications/) once it has been published by the university library.
 
 
-<hr style="border: none; border-top: 1px solid #ccc; width: 90%; margin: 60px auto 0 auto;">
+<hr style="border: none; border-top: 1px solid #ccc; width: 95%; margin-top: 40px; margin-left: 0;">
 
-<p style="font-size: 23px; margin-top: 0;">
+<p style="font-size: 23px; margin-top: 15pt;">
   Contact
 </p>
 
