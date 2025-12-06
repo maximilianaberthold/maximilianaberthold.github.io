@@ -7,6 +7,8 @@
       value: 8th December 1992
     - name: Languages
       value: German, English
+    - name: Email
+      value: maximilian[dot]berthold[at]uni-tuebingen[dot]de
 
 - title: Education
   type: time_table
