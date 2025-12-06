@@ -43,9 +43,10 @@ maximilian[dot]berthold[at]uni-tuebingen[dot]de
 
 <style>
 .fixed-gray-line {
-  border: none;
-  border-top: 0.5px solid #ccc !important; /* forces light gray in all modes */
-  width: 50%;
+  border: none;           /* remove default border */
+  height: 0.25px;          /* set thickness */
+  background-color: #ccc !important; /* force light gray */
+  width: 65%;
   margin-top: 60px;
   margin-left: 0;
 }
