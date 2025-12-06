@@ -34,15 +34,11 @@ For most of my academic life, my research has centered around how temporal infor
 
 
 
-  <!-- Contact section stays at the bottom -->
-  <div style="margin-top: auto;">
-    <hr class="fixed-gray-line">
 
-  <p style="font-size: 23px; margin-top: 5px;">
+  <p style="font-size: 23px; margin-top: 100px;">
     Contact
   </p>
 
   maximilian[dot]berthold[at]uni-tuebingen[dot]de
-  </div>
 
 
