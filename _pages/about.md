@@ -47,7 +47,7 @@ maximilian[dot]berthold[at]uni-tuebingen[dot]de
   height: 0.25px;          /* set thickness */
   background-color: #ccc !important; /* force light gray */
   width: 69%;
-  margin-top: 80px;
+  margin-top: 120px;
   margin-left: 0;
 }
 </style>
